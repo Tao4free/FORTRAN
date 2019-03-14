@@ -1,0 +1,22 @@
+At line 51 of file getnearflood_dist_wt.f90 (unit = 22, file = 'factory.csv')
+Fortran runtime error: End of file
+
+Error termination. Backtrace:
+
+Could not print backtrace: libbacktrace could not find executable to open
+#0  0xffffffffffffffff
+#1  0xffffffffffffffff
+#2  0xffffffffffffffff
+#3  0xffffffffffffffff
+#4  0xffffffffffffffff
+#5  0xffffffffffffffff
+#6  0xffffffffffffffff
+#7  0xffffffffffffffff
+#8  0xffffffffffffffff
+#9  0xffffffffffffffff
+#10  0xffffffffffffffff
+#11  0xffffffffffffffff
+#12  0xffffffffffffffff
+ factory.csvflood_centroid.txt
+           4 hello   31.5882339       121.659447    
+           5 world   37.5444031       142.534317    

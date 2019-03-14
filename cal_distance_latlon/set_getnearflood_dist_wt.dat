@@ -1,0 +1,3 @@
+'factory file'             'factory.csv'  213 ! 1 header
+'flood centroid file'      'flood_centroid.txt' 12642702 ! 1 header
+'output file'              'average_depth.txt'
