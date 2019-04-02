@@ -8,7 +8,7 @@
 
 
 !     <<<   read setfile   >>>>
-      open(11,file="set_mk2dmesh_v2.dat",action="Read")
+      open(11,file="set",action="Read")
       read(11,*) com
       read(11,*) lon(1),lat(1)
       read(11,*) com
